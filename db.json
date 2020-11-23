@@ -1,12 +1,12 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Wystąpił jakiś błąd 1" },
+    { "id": 2, "title": "Wystąpił jakiś błąd 2" },
+    { "id": 3, "title": "Wystąpił jakiś błąd 3" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "Wystąpił jakiś błąd", "postId": 1 },
+    { "id": 2, "body": "Wystąpił jakiś błąd", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
